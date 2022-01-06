@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: discord-oauth2
+Version: 0.1
+Summary: A python library that uses discord's api for easy authentication for your website.
+Home-page: UNKNOWN
+Author: Paul Martin Ablaza
+Author-email: ablazapaulmartin@protonail.com
+License: MIT
+Keywords: discord auth,discord oauht2,oauth2
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# dicord_oauth2
+
+A python library that uses discord's api for easy authentication for your website.
+
+## Installation
+
+Install discord-oauth2 with npm
+
+```bash
+  pip3 install discord-oauth2
+```
+
+## Documentation
+
+(soon)
+
+## FAQ
+
+#### Simpler documentation?
+
+(soon)
+
+## Author
+
+- [@paulablaza](https://www.github.com/paulablaza)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+

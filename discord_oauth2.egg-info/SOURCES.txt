@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+discord_oauth2/__init__.py
+discord_oauth2.egg-info/PKG-INFO
+discord_oauth2.egg-info/SOURCES.txt
+discord_oauth2.egg-info/dependency_links.txt
+discord_oauth2.egg-info/requires.txt
+discord_oauth2.egg-info/top_level.txt
