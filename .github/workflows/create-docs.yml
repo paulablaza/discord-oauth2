@@ -6,4 +6,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - run: pip install portray
       - run: python -m portray as_html -o portraydocs --overwrite
