@@ -1,5 +1,6 @@
 [tool.portray]
 output_dir = "portraydocs"
+modules = ["discord-oauth2"]
 
 [tool.portray.mkdocs.theme]
 name = "material"
@@ -10,3 +11,8 @@ Home = "README.md"
 
 [[tool.portray.mkdocs.nav]]
 Usage = "docs/hi.md"
+
+[tool.portray.mkdocs]
+repo_url = "https://github.com/paulablaza/discord-oauth2"
+repo_name = "discord-oauth2"
+edit_uri = "none"
