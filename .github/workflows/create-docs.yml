@@ -6,6 +6,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: ls
       - run: pip install portray
-      - run: python -m portray as_html -o portraydocs --overwrite
+      - run: python -m portray as_html -o portraydocs -m /github/workspace/discord_outh2 --overwrite
