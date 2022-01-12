@@ -1,0 +1,12 @@
+[tool.portray]
+output_dir = "portraydocs"
+
+[tool.portray.mkdocs.theme]
+name = "material"
+palette = {primary = "black", accent = "blue"}
+
+[[tool.portray.mkdocs.nav]]
+Home = "README.md"
+
+[[tool.portray.mkdocs.nav]]
+Usage = "docs/hi.md"

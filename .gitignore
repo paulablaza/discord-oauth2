@@ -152,4 +152,4 @@ cython_debug/
 #.idea/
 
 #extra
-createdocs.sh
+portraydocs

@@ -13,7 +13,7 @@ setuptools.setup(
   long_description_content_type="text/markdown",  
   author='Paul Martin Ablaza',
   author_email='ablazapaulmartin@protonail.com',
-    # url='repo link', 
+  url='https://github.com/paulablaza/discord-oauth2', 
   install_requires=['requests'], 
   keywords=["discord auth", "discord oauht2", "oauth2"], 
   classifiers=[                                   

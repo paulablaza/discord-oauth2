@@ -1,0 +1,9 @@
+name: Create Docs
+on: [push]
+
+jobs:
+  Create-Docs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: python -m portray as_html -o portraydocs --overwrite
