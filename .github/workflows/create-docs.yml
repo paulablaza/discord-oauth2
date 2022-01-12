@@ -8,4 +8,4 @@ jobs:
     steps:
       - run: echo ${{ github.workspace }}
       - run: pip install portray
-      - run: python -m portray as_html -o portraydocs -m ${{ github.workspace }}/discord_outh2 --overwrite
+      - run: python -m portray as_html -o portraydocs -m ${{ github.workspace }}/discord_outh2 discord_oauth2 --overwrite
