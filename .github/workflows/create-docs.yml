@@ -7,4 +7,4 @@ jobs:
 
     steps:
       - run: pip install portray
-      - run: python -m portray as_html -o portraydocs -m ${{ github.workspace }}/discord_oauth2 discord_oauth2
+      - run: python -m portray on_github_pages
