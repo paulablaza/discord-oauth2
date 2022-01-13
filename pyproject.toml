@@ -1,6 +1,5 @@
 [tool.portray]
 output_dir = "portraydocs"
-modules = ["discord-oauth2"]
 
 [tool.portray.mkdocs.theme]
 name = "material"
