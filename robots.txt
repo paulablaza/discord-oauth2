@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://paulablaza.github.io/discord-oauth2/sitemap.xml.gz
