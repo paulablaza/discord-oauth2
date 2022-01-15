@@ -1,6 +1,6 @@
 input: docs
 output: .retype
-url: # Add your website address here
+url: https://paulablaza.github.io/discord-oauth2/
 branding:
   title: Discord OAuth2
   label: Docs
