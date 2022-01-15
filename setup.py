@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
   name='discord-oauth2',                           
   packages=setuptools.find_packages(),                  
-  version='0.1',                              
+  version='0.2',                              
   license='MIT',                              
   description="A python library that uses discord's api for easy authentication for your website.",
   long_description=long_description,              

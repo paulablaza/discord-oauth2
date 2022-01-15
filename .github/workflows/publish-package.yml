@@ -1,9 +1,8 @@
 name: Upload to PyPI
 on:
-  workflow_dispatch:
   push:
-    branches:
-      - master
+    paths:
+      - 'setup.py'
 
 jobs:
   deploy:
