@@ -34,7 +34,7 @@ class DiscordAuth:
 
 
   def refresh_token(self, refresh_token):
-    """ Refreshes access token and refresh tokens. """
+    """ Refreshes access token and access tokens and will return a new set of tokens """
     data = {
       'client_id': self.client_id,
       'client_secret': self.client_secret,

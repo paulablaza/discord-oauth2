@@ -1,4 +1,8 @@
-# discord_oauth2
+---
+icon: home
+---
+
+# Home
 
 A python library that uses discord's api for easy authentication for your application!.
 
@@ -15,10 +19,6 @@ Install discord-oauth2 with npm
 [FastAPI](additional-files/usage/fastapi.md)
 
 _Would be great if you know a library like flask or django to create an example usage and pull request it!_
-
-## Documentation
-
-Read the docs [here](https://paulablaza.github.io/discord-oauth2/)
 
 ## Contributing
 
@@ -37,4 +37,4 @@ If you want to contribute please open an issue first.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://github.com/paulablaza/discord-oauth2/blob/master/LICENSE)

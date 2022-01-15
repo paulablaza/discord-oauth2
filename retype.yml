@@ -1,0 +1,13 @@
+input: docs
+output: .retype
+url: # Add your website address here
+branding:
+  title: Discord OAuth2
+  label: Docs
+links:
+  - text: Home
+    link: /
+  - text: Github
+    link: https://github.com/paulablaza/discord-oauth2
+footer:
+  copyright: 'Copyright (c) 2022 Paul Martin Ablaza'
