@@ -4,7 +4,7 @@ A python library that uses discord's api for easy authentication for your applic
 
 ## Installation
 
-Install discord-oauth2 with npm
+Install discord-oauth2 with pip
 
 ```bash
   pip3 install discord-oauth2
