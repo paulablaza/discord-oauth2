@@ -1,6 +1,6 @@
 # discord_oauth2
 
-A python library that uses discord's api for easy authentication for your application!
+A python library that uses discord's API for easy authentication for your application!
 
 ## Installation
 
